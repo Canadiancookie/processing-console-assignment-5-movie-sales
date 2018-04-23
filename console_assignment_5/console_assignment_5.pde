@@ -8,11 +8,11 @@
  
 void setup() {
   //Movie Strings
-  String movie1 = "";
-  String movie2 = "";
-  String movie3 = "";
-  String movie4 = "";
-  String movie5 = "";
+  String movie1 = "Shrek 2";
+  String movie2 = "Bee Movie";
+  String movie3 = "Alvin and the Chipmunks: The Squeakquel";
+  String movie4 = "WALL-E";
+  String movie5 = "Shark Tale";
   
   //Movie Sale integers
   int movie1sales = 1;
