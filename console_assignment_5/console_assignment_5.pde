@@ -16,11 +16,12 @@ void setup() {
   int movie5 = 4;
   
   //Movie Sale integers
-  int movie1sales = 919800000;
-  int movie2sales = 287600000;
-  int movie3sales = 443100000;
-  int movie4sales = 533300000;
-  int movie5sales = 367300000;
+  String[] sales = loadStrings ("moviesales.txt");
+  int movie1sales = 0;
+  int movie2sales = 1;
+  int movie3sales = 2;
+  int movie4sales = 3;
+  int movie5sales = 4;
   
 }
 void draw() {
