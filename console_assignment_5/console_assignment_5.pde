@@ -15,11 +15,11 @@ void setup() {
   String movie5 = "Shark Tale";
   
   //Movie Sale integers
-  int movie1sales = 1;
-  int movie2sales = 1;
-  int movie3sales = 1;
-  int movie4sales = 1;
-  int movie5sales = 1;
+  int movie1sales = 919800000;
+  int movie2sales = 287600000;
+  int movie3sales = 443100000;
+  int movie4sales = 533300000;
+  int movie5sales = 367300000;
   
 }
 
