@@ -14,6 +14,13 @@ void setup() {
   String movie4 = "";
   String movie5 = "";
   
+  //Movie Sale integers
+  int movie1sales = 1;
+  int movie2sales = 1;
+  int movie3sales = 1;
+  int movie4sales = 1;
+  int movie5sales = 1;
+  
 }
 
 void draw() {
