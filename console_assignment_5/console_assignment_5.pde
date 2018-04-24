@@ -33,7 +33,29 @@ void setup() {
     println("This movie is not very popular.");
   }
   
+  println("Are you interested in seeing this movie?");
+  
+  //if it is a blockbuster movie, the customer will be interested
+  if (sales1 > 500000000){
+    println("Yes!");
+  } 
+  else {
+    println("No.");
+  }
+  
+  println("Great! Here's a discount coupon so you can enjoy the movie even more!");
   println();
+  println("****************************************************");
+  println("*     SHREK 2");
+  println("*     Super Shrek Combo");
+  println("*     (Large Pop, Large Popcorn, 2 bags licorice)");
+  println("*     $8.95 (regular price is $11.95)");
+  println("****************************************************");
+  //end of first movie conversation
+  
+  println();
+  println();
+  
   
   println(movies[movie2]);
   if (sales2 > 500000000){
