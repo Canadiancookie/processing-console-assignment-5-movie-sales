@@ -18,10 +18,10 @@ void setup() {
   //Movie Sale integers
   String[] sales = loadStrings ("moviesales.txt");
   int sales1 = Integer.parseInt(sales[0]);
-  int sales2 = 1;
-  int sales3 = 2;
-  int sales4 = 3;
-  int sales5 = 4;
+  int sales2 = Integer.parseInt(sales[1]);
+  int sales3 = Integer.parseInt(sales[2]);
+  int sales4 = Integer.parseInt(sales[3]);
+  int sales5 = Integer.parseInt(sales[4]);
   
   println(movies[movie1]);
 
