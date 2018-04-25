@@ -135,6 +135,14 @@ void setup() {
   else {
     println("No.");
   }
+    
+  println("Great! Here's a discount coupon so you can enjoy the movie even more!");
+  println("****************************************************");
+  println("*     WALL-E");
+  println("*     Super Robot Combo");
+  println("*     (Large Pop, Large Popcorn, 2 bags licorice)");
+  println("*     $8.95 (regular price is $11.95)");
+  println("****************************************************");
   
   
   println();
