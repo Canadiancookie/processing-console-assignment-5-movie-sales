@@ -166,9 +166,14 @@ void setup() {
     println("No.");
   }
   
-  
-  println();
-  println();
+  println("I'm sorry to hear that. However, we do have a discount coupon");
+  println("available if you change your mind.");
+  println("****************************************************");
+  println("*     SHARK TALE");
+  println("*     Super Fish Combo");
+  println("*     (Medium Pop, Large Popcorn, All-Beef Hot Dog)");
+  println("*     $7.95 (regular price is $11.95)");
+  println("****************************************************");
   
 }
 void draw() {
