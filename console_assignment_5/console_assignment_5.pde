@@ -95,6 +95,15 @@ void setup() {
   else {
     println("This movie is not very popular.");
   }
+      
+  println("Are you interested in seeing this movie?");
+  
+  if (sales3 > 500000000){
+    println("Yes!");
+  } 
+  else {
+    println("No.");
+  }
   
   
   println();
@@ -108,6 +117,15 @@ void setup() {
   else {
     println("This movie is not very popular.");
   }
+      
+  println("Are you interested in seeing this movie?");
+  
+  if (sales4 > 500000000){
+    println("Yes!");
+  } 
+  else {
+    println("No.");
+  }
   
   
   println();
@@ -120,6 +138,15 @@ void setup() {
   } 
   else {
     println("This movie is not very popular.");
+  }
+      
+  println("Are you interested in seeing this movie?");
+  
+  if (sales5 > 500000000){
+    println("Yes!");
+  } 
+  else {
+    println("No.");
   }
   
   
