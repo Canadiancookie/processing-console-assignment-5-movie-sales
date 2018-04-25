@@ -105,6 +105,15 @@ void setup() {
     println("No.");
   }
   
+  println("I'm sorry to hear that. However, we do have a discount coupon");
+  println("available if you change your mind.");
+  println("****************************************************");
+  println("*     ALVIN AND CHIPMUNKS: SQUEAKQUEL");
+  println("*     Super Chipmunk Combo");
+  println("*     (Medium Pop, Large Popcorn, All-Beef Hot Dog)");
+  println("*     $7.95 (regular price is $11.95)");
+  println("****************************************************");
+  
   
   println();
   println();
